@@ -1,13 +1,19 @@
 # AB-testing-scripts
 
 ## Quick Start
-Run
+To initialize the commands, run:
+```
+$ chmod +x warm-up.sh
+$ chmod +x run.sh
+```
+
+Run:
 ```
 $ ./warm-up.sh
 ```
 to perform warm-up on the graphql-http-server application.
 
-Run
+Run:
 ```
 $ ./run.sh
 ```
