@@ -1,0 +1,3 @@
+{
+	"query": "query {\n  hero{\n    id\n    name\n    queryTime\n    }\n}"
+}
